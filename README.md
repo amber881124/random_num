@@ -1,1 +1,1 @@
-"# random_num" 
+#### 猜數字，練習用模組(random)
